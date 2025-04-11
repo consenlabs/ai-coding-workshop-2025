@@ -1,0 +1,2 @@
+- this is a monorepo, keep source code under sub packages
+- use tailwindcss version v3.x under v4
